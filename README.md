@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Isaac
 
-<!--
-**Neexll/Neexll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Full Stack Developer** who loves building scalable applications, clean user interfaces, and robust back-end systems.
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** TypeScript, Python, JavaScript, SQL
+- **Front-end:** React, Next.js, Tailwind CSS
+- **Back-end:** Node.js, Express, PostgreSQL
+- **Tools:** Docker, Git, Prisma, RESTful APIs, Vite
+
+## 🚀 About Me
+
+- 🔧 I enjoy solving real-world problems through code.
+- 📦 Clean code, performance and automation are always on my radar.
+- 🌱 Currently learning more about DevOps, microservices, and AI integration.
+
+## 📫 Let's Connect
+
+- LinkedIn: https://www.linkedin.com/in/isaac-lopes-07a221285/
+- Email: contato.isaacl9@gmail.com
+
