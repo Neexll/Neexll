@@ -25,11 +25,11 @@
 
 | Area         | Tools |
 |--------------|-------|
-| 💻 Frontend   | React, Next.js, TypeScript, Tailwind CSS |
-| 🛠 Backend    | Node.js, Express, REST APIs, Prisma |
+| 💻 Frontend   | React, Next.js, CSS, JavaScript, HTML |
+| 🛠 Backend    | Node.js, Express, REST APIs, Prisma, Python |
 | 🗄 Database   | PostgreSQL, SQLite |
 | 🚀 DevOps     | Docker, GitHub Actions |
-| 🔧 Tools      | Vite, Git, VSCode, Postman |
+| 🔧 Tools      | Vite, Git, VSCode, Postman, Windsurf |
 
 ---
 
@@ -44,9 +44,10 @@
 
 ## 📌 Featured Projects
 
-- 🔗 [**BolsoZen**](https://github.com/SEU_USUARIO_AQUI/bolsozen) — Financial control app for freelancers
+- 🔗 [**BolsoZen**](www.bolsozen.io) — Financial control app for freelancers **Open Beta on Google Playstore**
 - 🔗 [**EcomTech**](https://ecomtechh.com.br/) — Digital solutions and automation services for e-commerce platforms like Tray, Nuvemshop, and Loja Integrada.
 - 🔗 [**NutrunaFit**] - ON WORK — AI-based meal and routine planner
+- 🔗 [**Controle de Reparo de Computadores**] - ON WORK — Um controle de peças eletronicas com defeito
 
 ---
 
@@ -54,6 +55,7 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/isaac-lopes-07a221285/)
 - 📧 contato.isaacl9@gmail.com
+- Whatsapp: +55(31)99132-7867
 
 ---
 
